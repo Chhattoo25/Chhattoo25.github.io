@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48b88013.css",
+    "main.js": "/static/js/main.2bed40c6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/IndianExpresscity2.png": "/static/media/IndianExpresscity2.dcf0aa144c3a5d200bd1.png",
+    "static/media/BellaVita1.png": "/static/media/BellaVita1.fcbfe52453d2a625d212.png",
+    "static/media/IndianExpress1.png": "/static/media/IndianExpress1.8a3d64f06aae83aded2c.png",
+    "static/media/Minimalist1.png": "/static/media/Minimalist1.05f66487b4bca42e00c1.png",
+    "static/media/Chhatrapal_Ahirwar_Resume_FSWD.pdf": "/static/media/Chhatrapal_Ahirwar_Resume_FSWD.70c33b61f3207acb8edc.pdf",
+    "static/media/calendlyHome1.png": "/static/media/calendlyHome1.5e2e136db1b657206ef9.png",
+    "static/media/Minimalist2.png": "/static/media/Minimalist2.7e588a4a87448a578aec.png",
+    "static/media/mongodb.png": "/static/media/mongodb.1455e1b289cf7219278c.png",
+    "static/media/reduxLogo.png": "/static/media/reduxLogo.1b4bb5fceb01b19da59d.png",
+    "static/media/nodejs.png": "/static/media/nodejs.e35b0d98534f32e06a6d.png",
+    "static/media/React-icon.svg.png": "/static/media/React-icon.svg.81ed438b18e24116794d.png",
+    "static/media/dsa.png": "/static/media/dsa.fbf8bafb4c7b2b7c9c7c.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.d3ad2067b59c4d431b7d.png",
+    "static/media/calendly2.png": "/static/media/calendly2.0e7d4c6b1ddfc17f595d.png",
+    "static/media/Profilepic.png": "/static/media/Profilepic.72a24fa8e5f6af662050.png",
+    "static/media/gitLogo.png": "/static/media/gitLogo.0983b7b8f96629e083f1.png",
+    "static/media/chakraUi.png": "/static/media/chakraUi.6d4684d36d618b85afe2.png",
+    "static/media/express.png": "/static/media/express.1ccf5d34049980ec4bfe.png",
+    "static/media/typescript.png": "/static/media/typescript.1424db476e20cf738854.png",
+    "static/media/cypress.png": "/static/media/cypress.dd5cd9c2d9b67b886279.png",
+    "static/media/Communication.png": "/static/media/Communication.9e7ea2aa681048efbecc.png",
+    "static/media/CSS3_logo.svg.png": "/static/media/CSS3_logo.svg.1a57e67ac1fd2ea84d64.png",
+    "static/media/Backend.png": "/static/media/Backend.faf47c30539965ca7316.png",
+    "static/media/cliLogo.png": "/static/media/cliLogo.3f45a43ee7a31031e3db.png",
+    "static/media/Fronted.png": "/static/media/Fronted.e88d74b9deb01ff3a29a.png",
+    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "index.html": "/index.html",
+    "static/media/javascript-1.svg": "/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.48b88013.css.map": "/static/css/main.48b88013.css.map",
+    "main.2bed40c6.js.map": "/static/js/main.2bed40c6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b88013.css",
+    "static/js/main.2bed40c6.js"
+  ]
+}
